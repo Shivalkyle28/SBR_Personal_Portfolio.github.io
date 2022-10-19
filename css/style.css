@@ -154,7 +154,7 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 1200px;
+    min-height: 500px;
 }
 .card{
     height: 365px;
