@@ -154,11 +154,11 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 200px;
+    min-height: 500px;
 }
 .card{
-    height: 120px;
-    width: 150px;
+    height: 365px;
+    width: 335px;
     padding: 20px 35px;
     background: #191919;
     border-radius: 20px;
@@ -185,8 +185,7 @@ h5{
     font-size: 16px;
     line-height: 27px;
     margin-bottom: 25px;
-}
-
+} 
 footer{
     position: relative;
     width: 100%;
