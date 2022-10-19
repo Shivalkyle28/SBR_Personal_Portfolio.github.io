@@ -57,7 +57,7 @@ nav ul li a:hover{
     transform: scale(1.2);
 }
 .content{
-    position: relative;
+    position: absolute;
     top: 50%;
     left:8%;
     transform: translateY(-50%);
@@ -80,7 +80,7 @@ h4{
 .newslatter form{
     width: 380px;
     max-width: 100%;
-    position: relative;
+    position: absolute;
 }
 .about{
     width: 100%;
@@ -281,4 +281,4 @@ footer p:nth-child(2){
     font-size: 14px; 
 }
 
-}
+
