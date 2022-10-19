@@ -150,6 +150,7 @@ button:hover{
 .title h2{
     color: rgb(0, 81, 255);
     font-size: 75px;
+    width: auto;
     margin: 30px auto;
     text-align: center;
 }
