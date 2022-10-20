@@ -4,47 +4,12 @@
     font-family: 'Josefin Sans', sans-serif;
     box-sizing: border-box;
 }
-.wrapper {
-    width: 1000px;
-    margin: 0 auto;
-}  
-html{
-    font-size: 62.5%;
-    overflow-x: hidden;
-    scroll-padding-top: 5.5rem;
-    scroll-behavior: smooth;
-}
 .hero{
     height: 100vh;
     width: 100%;
     background-image: url(../img/background.png);
     background-size: cover;
     background-position: center;
-}
-
-section{
-    padding:2rem 9%;
-}
-
-section:nth-child(even){
-    background:rgb(228, 226, 104);
-}
-
-.sub-heading{
-    font-size: 1.7rem;
-    color:#fff;
-    background: var(--black);
-    -moz-outline-radius: .5rem;
-    cursor: pointer;
-    padding:.8rem 3rem;
-}
-header{
-    position: fixed;
-    top:0; left: 0; right:0;
-    background: #fff;
-    padding:1rem 7%;
-    display: flex;
-    align-items: center;
 }
 nav{
     display: flex;
@@ -112,7 +77,6 @@ h4{
     letter-spacing: 2px;
     font-size: 20px;
 }
-
 .about{
     width: 100%;
     padding: 100px 0px;
