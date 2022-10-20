@@ -140,6 +140,7 @@ button:hover{
 }
 
 .Benefits{
+    justify-content: center;
     background: #101010;
     width: 100%;
     padding: 100px 0px;
